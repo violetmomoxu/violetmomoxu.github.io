@@ -17,7 +17,7 @@ My research focus on.
 Education
 ======
 **University of Oklahoma**<br /> 
-**PhD** in Finance (Aug. 2020 - Present)<br /> 
+**PHD** in Finance (Aug. 2020 - Present)<br /> 
 **Northeastern University**<br /> 
 **MS** in Finance (Sep. 2018 - Aug. 2019)<br /> 
 **Nanjing Audit University**<br /> 
