@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bing (Violet) Xu"
+title                    : "Bing(Violet) Xu"
 title_separator          : "-"
 name                     : &name "Violet"
 description              : &description "Violet's webpage"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Bing(Violet) Xu"
-  avatar           : "IMG_2509.JPG"
+  avatar           : "IMG_2833.PNG"
   bio              : "PHD student in OU"
   location         : "Norman, Oklahoma"
   employer         :
