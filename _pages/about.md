@@ -12,7 +12,7 @@ I am a third-year Ph.D. student co-advised by [Prof. William L. Megginson](https
 
 Research Interests
 ======
-My research focus on. 
+My research interests are sleep, food, travel. 
 
 Education
 ======
