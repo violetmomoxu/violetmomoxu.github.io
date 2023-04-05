@@ -6,5 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-[click here to view my cv](/files/resume (2).pdf)
+{% include base_path %}
+<embed src="{{ site.baseurl }}/files/resume (2).pdf">
