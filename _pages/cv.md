@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[click here to view my cv](/asets/pdf/resume(2).pdf)
+[click here to view my cv](/files/resume (2).pdf)
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
