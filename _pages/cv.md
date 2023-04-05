@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+[click here to view my cv](/files/resume2.pdf)
 <embed src="{{ site.baseurl }}/files/resume2.pdf" width="600" height="700" type='application/pdf'>
 
 
