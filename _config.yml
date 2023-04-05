@@ -241,7 +241,7 @@ defaults:
       path: ""
       type: cv
     values:
-      layout: cv
+      layout: single
       author_profile: true
       share: true
 
