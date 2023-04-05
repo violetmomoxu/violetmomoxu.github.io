@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-<embed src="{{ site.baseurl }}/files/resume (2).pdf">
+<embed src="{{ site.baseurl }}/files/resume2.pdf">
