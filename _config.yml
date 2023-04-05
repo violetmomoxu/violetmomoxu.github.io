@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bing(Violet) Xu"
+title                    : "Violet Xu"
 title_separator          : "-"
 name                     : &name "Violet"
 description              : &description "Violet's webpage"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bing(Violet) Xu"
+  name             : "Bing (Violet) Xu"
   avatar           : "IMG_9643.JPG"
-  bio              : "Ph.D student in OU"
+  bio              : "Ph.D student at University of Oklahoma"
   location         : "Norman, Oklahoma"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
