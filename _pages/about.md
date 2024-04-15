@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Bing Violet Xu. I am a Ph.D. candidate in Finance at the University of Oklahoma. I am on the 2024 - 2025 job market./n
+Welcome! My name is Bing Violet Xu. I am a Ph.D. candidate in Finance at the University of Oklahoma. I am on the 2024 - 2025 job market.
+
 My research interests lie in empirical corporate finance, corporate governance, sustainability, and artificial intelligence in finance.
 
 
